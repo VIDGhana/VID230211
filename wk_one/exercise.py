@@ -1,15 +1,5 @@
-# Class Activities + Review (Class 2)
+# Week One Exercise
 
-# Together------------------------------------------------
-
-# 0. Questions?
-# 1. How to run code
-    # IDE/Script
-    # Terminal
-# 2. What are 2 ways to add comments?
-# 3. Which direction does variable assignment go?
-
-# Classwork-----------------------------------------------
 '''
 1. Create a variable called number_of_units and set it equal to
 3. Then on the next line, print out number_of_units + 1. What does
